@@ -1,0 +1,16 @@
+Stanford course CS193p HW3 - Matchismo&Set
+
+Everything in the basic assignment is done except the set card shading is done
+with with alpha = 0.3 instead of stripes. None of the extra credit things are done.
+
+The set card view was copied from Marko Kuljanski's solution (thank you Marko) except
+that I replaced his drawSquiggle method with my own because I wanted a different look
+for the squiggles.
+
+The screens could be laid out a little better but they look ok and device rotation works. 
+
+I guess a lot of things could be improved but I'm really tired of working
+on this project and anxious to move on to the next lecture and the next HW
+so I'm not going to tinker with it any more.
+
+I found the names he used for the classes annoyingly similar to each other, which is one reason I didn't like the project.
